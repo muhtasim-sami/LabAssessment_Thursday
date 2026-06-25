@@ -1,1 +1,5 @@
-We use git status to check the staus of all the files.
+We use git status to check the staus of all the files. 
+For example: 
+	what is the current branch,
+	any commit done previously or not,
+	etc
