@@ -1,0 +1,1 @@
+We use git status to check the staus of all the files.
